@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SampleAidl.iml" filepath="$PROJECT_DIR$/SampleAidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidaidllibrary/androidaidllibrary.iml" filepath="$PROJECT_DIR$/androidaidllibrary/androidaidllibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
